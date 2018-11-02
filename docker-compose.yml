@@ -1,0 +1,11 @@
+---
+version: '3'
+
+services:
+  ansible:
+    container_name: ansible
+    build:
+      context: .
+    image: dceoy/ansible:latest
+    entrypoint:
+      - ansible
