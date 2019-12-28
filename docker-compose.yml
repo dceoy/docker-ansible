@@ -8,4 +8,4 @@ services:
       context: .
     image: dceoy/ansible:latest
     entrypoint:
-      - ansible
+      - /usr/local/bin/ansible
