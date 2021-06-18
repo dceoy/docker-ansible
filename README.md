@@ -3,6 +3,8 @@ docker-ansible
 
 Dockerfile for Ansible
 
+[![CI to Docker Hub](https://github.com/dceoy/docker-ansible/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/dceoy/docker-ansible/actions/workflows/docker-publish.yml)
+
 Docker image
 ------------
 
